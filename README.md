@@ -21,5 +21,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=JKB<3&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
