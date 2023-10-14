@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-# 💫 Hi there 👋:
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 🌱 I'm currently learning django<br>📫 How to reach me : jishnu.kb17291@gmail.com<br>
 
 
