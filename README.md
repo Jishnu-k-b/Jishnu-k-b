@@ -14,4 +14,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ![Snake animation](https://github.com/Jishnu-k-b/Jishnu-k-b/blob/output/github-contribution-grid-snake.svg)
