@@ -3,7 +3,7 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-🌱 I'm currently learning django<br>📫 How to reach me : jishnu.kb17291@gmail.com<br>
+🌱 I'm currently learning machine learning and django framework<br>📫 How to reach me : jishnu.kb17291@gmail.com<br>
 
 
 
